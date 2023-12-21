@@ -2,6 +2,12 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Muhammad Fahrul",
   "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "backend",
+    "certification",
+    "course"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
